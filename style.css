@@ -1,0 +1,23 @@
+#header {
+    font-family: 'Qahiri', sans-serif;
+    font-size: 100px;
+    font-weight: 700;
+    background-color: darkturquoise;
+    border-radius: 20px;
+    width: 70%;
+    color: lightcoral;
+}
+
+#save_button {
+    width: 50%;
+    margin-top: 40px;
+    font-size: 50px;
+    border-radius: 30px;
+    font-family: 'Mogra', cursive;
+    background-color: lightskyblue;
+    height: 100px;
+}
+
+canvas {
+    margin-top: 150px;
+}
